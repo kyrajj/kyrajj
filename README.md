@@ -3,10 +3,7 @@
 <h2> 🖥️ Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab] (https://github.com/kyrajj/ActiveDirectoryLab)
-- [Linux Assignments (RapidAscent)] (https://github.com/kyrajj/)
-- [Networking Assignments (RapidAscent)] (https://github.com/kyrajj/)
-- [Windows Assignments (RapidAscent)] (https://github.com/kyrajj/)
-- [Virtualization Assignments (RapidAscent)] (https://github.com/kyrajj/)
+- [ALL Assignments From RapidAscent] (https://github.com/kyrajj/CybersecurityProjects)
 
 <h2>📝Certifications</h2>
 
